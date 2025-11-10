@@ -1,2 +1,2 @@
-# test-sync-public
+# test-sync-private
 Repo to test commit sync
